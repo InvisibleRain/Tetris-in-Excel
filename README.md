@@ -1,15 +1,15 @@
 # Tetris in Excel
 
-System requirements:
+##### System requirements:
 * Excel 2007 or later
 * 64-bit PC (I will fix this later)
 
-How to play?
+##### How to play?
 1. Download .xlsm file
 2. Open it in Excel, then click "Allow Editing" and "Allow Content"
 3. Play!!!
 
-How to contribute?
+##### How do I view and edit the source code?
 1. Download .xlsm file
 2. Open it in Excel
 3. Go to File => Options => Customize Ribbon
