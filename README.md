@@ -16,3 +16,6 @@
 4. Turn on Developer tab from the right list
 5. Then go to the Developer tab and click the "Visual Basic" button on the left
 6. You can navigate through the code using Project Explorer in the top left corner
+
+#### Gameplay
+![Gameplay gif](https://i.imgur.com/Lw8sgCq.gifg "It works!")
