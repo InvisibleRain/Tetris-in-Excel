@@ -11,7 +11,7 @@
 ##### How do I view and edit the source code?
 1. Download the .xlsm file and open it in Excel
 2. Go to File => Options => Customize Ribbon
-3. Turn on the Developer tab from the right list
+3. Turn on the Developer tab from the list on the right
 4. Then go to the Developer tab and click the "Visual Basic" button on the left
 
 You can navigate through the code using Project Explorer in the top left corner
