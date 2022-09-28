@@ -2,9 +2,13 @@
 #If Win64 Then
     Private Declare PtrSafe Function GetAsyncKeyState Lib "user32" _
             (ByVal vKey As Long) As Integer
+            
+    Public Declare PtrSafe Sub Sleep Lib "kernel32" (ByVal dwMilliseconds As LongPtr)
 #Else
     Private Declare Function GetAsyncKeyState Lib "user32" _
             (ByVal vKey As Long) As Integer
+            
+    Public Declare Sub Sleep Lib "kernel32" (ByVal dwMilliseconds as Long)
 #End If
 
             
