@@ -51,7 +51,7 @@ Sub Game()
             Call tetr.Move("down")
             
             DoEvents
-        
+            Sleep 500
             Application.ScreenUpdating = True
         Loop While (tetr.CanMove("down"))
         
