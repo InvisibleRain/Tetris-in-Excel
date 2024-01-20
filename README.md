@@ -2,6 +2,7 @@
 
 ##### System requirements:
 * Excel 2007 or later
+* Microsoft Windows
 
 ##### How to play?
 1. Download the .xlsm file
