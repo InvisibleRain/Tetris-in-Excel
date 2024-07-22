@@ -35,4 +35,4 @@ Or
 Alternatively, you can view the source code in the `/src` directory of the repo. You can even try to build it by hand, but keep in mind that such elements as buttons and some important sheet settings are not present there.
 
 #### Gameplay
-![Gameplay gif](https://i.imgur.com/Lw8sgCq.gifg "It works!")
+![Gameplay gif](https://github.com/user-attachments/assets/96781c1c-2049-4846-b274-eea703d15b92 "It works!")
